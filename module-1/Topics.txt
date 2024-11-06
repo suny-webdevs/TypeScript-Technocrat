@@ -1,0 +1,8 @@
+1. Object, optional and literal types
+2. Function
+3. Spread and Rest operator
+4. Destructuring of Object and Array
+5. Type alias
+6. Union and intersection
+7. Ternary, optional chaining and nullish coalescing operators
+8. Never, unknown and nullable type
